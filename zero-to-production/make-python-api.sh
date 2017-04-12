@@ -4,7 +4,7 @@
 #
 # PREREQUISITES
 #
-# You must have the following installed locally: zip, Python 2, and AWS CLI
+# You must have the following installed locally: zip and AWS CLI
 # Your AWS CLI must be configured for a user that has the necessary privileges
 # You must have a basic role 'lambda_basic_execution' defined - this is what is created
 # the first time you create a Lambda function in the web console
