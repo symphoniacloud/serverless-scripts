@@ -1,6 +1,6 @@
 # serverless-scripts
 
-** NOW ARCHIVED **
+**NOW ARCHIVED**
 
 Since this repo was last edited there have been a large number of tools created to help with AWS serverless services. E.g. from AWS alone there are SAM and CDK. I recommend you use one of those tools rather than the scripts here. If you want a "getting started" example using CDK see https://github.com/symphoniacloud/coffee-store-v2 .
 
